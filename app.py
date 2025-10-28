@@ -8,9 +8,10 @@ Original file is located at
 """
 
 # 🧰 Install required libraries
-!pip install scikit-learn pandas numpy matplotlib seaborn joblib
+
 
 # 📚 Import them
+import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
